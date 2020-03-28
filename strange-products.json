@@ -1,0 +1,34 @@
+{
+  "strangeProducts": [
+    {
+      "name": "Mushroom Farm",
+      "price" : 22.85,
+      "details": "Now you can grow your own fungus right at home—and not in between your toes!",
+      "image": "mushroom.jpg"
+    },
+    {
+      "name": "Human FInger",
+      "price" : 15.00,
+      "details": "That's right: you can buy human fingers on Amazon! The perfect gift for the science teacher in your life—or the kid you need to start hiding the scissors from.",
+      "image": "human-finger.jpg"
+    },
+    {
+      "name": "Bacon-Scented Mustache",
+      "price" : 4.07,
+      "details": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+      "image": "bacon-moustache.jpg"
+    },
+    {
+      "name": "Desktop Refrigerator",
+      "price" : 38.00,
+      "details": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+      "image": "desktop-fridge.jpg"
+    },
+    {
+      "name": "Roast Beef Bath Soak",
+      "price" : 9.75,
+      "details": "The only thing more relaxing than a warm bath is a warm bath full of au jus.",
+      "image": "roast-beef-bath-soak.jpg"
+    }
+  ]
+}
