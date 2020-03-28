@@ -71,6 +71,3 @@ let section = document.querySelector('section');
         section.appendChild(article);
         }
     }
-
-
-// This page inspired by and adapted from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
