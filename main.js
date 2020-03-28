@@ -53,7 +53,8 @@ let section = document.querySelector('section');
 //set the image alt attribute 
         img.setAttribute('alt', strangeProducts[i].name);
 
-        img.height = 500;
+        img.setAttribute('width', 200);
+        img.setAttribute('height', 300);
 
 //set the text content of the h2 to name
         h2.textContent = strangeProducts[i].name;
