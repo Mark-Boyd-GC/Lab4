@@ -52,6 +52,9 @@ let section = document.querySelector('section');
         img.setAttribute('src', 'https://mark-boyd-gc.github.io/Lab4/img/' + strangeProducts[i].image);
 //set the image alt attribute 
         img.setAttribute('alt', strangeProducts[i].name);
+
+        img.height = 500;
+
 //set the text content of the h2 to name
         h2.textContent = strangeProducts[i].name;
 //set the text contenxt of the first paragraph 
