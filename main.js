@@ -12,7 +12,7 @@
 */
 
 
-var requestURL = 'https://mark-boyd-gc.github.io/JS-Lab4//Lab%204/strange-products.json';
+var requestURL = 'https://mark-boyd-gc.github.io/JS-Lab4/strange-products.json';
 /*Create a new XHR object */
 var request = new XMLHttpRequest();
 /* Open a new request using the request() method */
@@ -49,7 +49,7 @@ function strangeProducts(jsonObj){
 //store a reference to the section element in var section 
 let section = document.querySelector('section');
 //set the image src attribute 
-        img.setAttribute('src', 'https://mark-boyd-gc.github.io/JS-Lab4/Lab%204/img/' + strangeProducts[i].image);
+        img.setAttribute('src', 'https://mark-boyd-gc.github.io/JS-Lab4/img/' + strangeProducts[i].image);
 //set the image alt attribute 
         img.setAttribute('alt', strangeProducts[i].name);
 //set the text content of the h2 to name
